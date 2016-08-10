@@ -1,0 +1,14 @@
+1.The default filename of data is 123.txt, so name the data filename to be 123.txt, and store the file in the (system file)
+
+2.Open Terminal, and type in python (filename).py v1 v2 v3 v4 v5
+
+v1 — desired median value 
+v2 — the desired amount of output packets 
+v3 — output filename
+v4 — upper limit
+v5 — Lower limit
+(v4,v5 set the limitation of output data fluctuation)
+
+3.program Running
+
+4.The output data file will be in the system file, and the name of the file is what you set before.
